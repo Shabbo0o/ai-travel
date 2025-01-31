@@ -23,11 +23,11 @@ body::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url('/travel.jpg');
+  background-image: url('/ai-travel.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  filter: grayscale(0%) opacity(80%); 
+  filter: grayscale(0%) opacity(80%);
   z-index: -1;
 }
