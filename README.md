@@ -76,4 +76,7 @@ This project is an **AI-powered Travel Guide** that generates detailed travel pl
 - `generative-ai`
 - `framer-motion`
 - `tailwindcss`
-```
+
+## Demo Screenshot
+
+![AI Travel Demo](public/demo.png)
